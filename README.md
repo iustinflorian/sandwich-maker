@@ -1,4 +1,4 @@
-# **C++ Programming: Sandwich Creation Algorithm Application**<br />
+# **C++ Programming: Binary Tree Traversal for Sandwich Ingredients**<br />
 ## **Objective**<br />
 Create a C++ program to represent a binary tree of sandwich ingredients and perform different traversal techniques. Output the ingredients for each traversal type to a text file.<br />
 ## **Tasks**<br />
